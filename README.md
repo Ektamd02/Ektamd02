@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ektamd02](https://medium.com/@ektamd02)
 
-- 💬 Ask me about **design services**
+- 💬 Ask me for any kind of **design services**
 
 - 📫 How to reach me **ektamd02@gmail.com**
 
