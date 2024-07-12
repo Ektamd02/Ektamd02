@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Ekta</h1>
 <h3 align="left">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Generative AI, DSA.**
+- 🌱 I’m currently learning **Web3 and AI.**
 
 - 📝 I regularly write articles on [https://medium.com/@ektamd02](https://medium.com/@ektamd02)
 
