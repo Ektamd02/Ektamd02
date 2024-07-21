@@ -27,3 +27,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ektamd02&" alt="ektamd02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ektamd02&show_icons=true&locale=en" alt="ektamd02" /></p>
+
+[![roadmap.sh](https://roadmap.sh/card/tall/669cf8f19a21cb3c68887b5d?variant=dark)](https://roadmap.sh)
