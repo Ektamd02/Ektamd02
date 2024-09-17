@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web3 and AI.**
 
-- 📝 I regularly write articles on [https://medium.com/@ektamd02](https://medium.com/@ektamd02)
+- ✍🏻 I write blogs on [https://medium.com/@ektamd02](https://medium.com/@ektamd02)
 
 - 💬 Ask me for any kind of **design services**
 
