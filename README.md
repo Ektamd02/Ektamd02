@@ -4,11 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ektamd02&label=Profile%20views&color=0e75b6&style=flat" alt="ektamd02" /> </p>
 
 - 🌱 I’m currently learning **Web3 and AI.**
-
 - ✍🏻 I write blogs on [https://medium.com/@ektamd02](https://medium.com/@ektamd02)
-
 - 💬 Ask me for any kind of **design services**
-
 - 📫 How to reach me **ektamd02@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1A7THsiOr9uxdtG4uWtSksKXmFbZgdlzz/view?usp=sharing](https://drive.google.com/file/d/1A7THsiOr9uxdtG4uWtSksKXmFbZgdlzz/view?usp=sharing)
